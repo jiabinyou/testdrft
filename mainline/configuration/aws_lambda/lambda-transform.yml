@@ -1,0 +1,2 @@
+archive_system: archive_bin
+handler_path: chime_meeting_integrations_lambda_tests
